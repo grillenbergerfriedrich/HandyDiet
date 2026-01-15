@@ -7,3 +7,19 @@ The time is decreased always when the screen ist on.
 It stops when the screen is of or the inputlock becomes active.
 It cannot be deinstalled easily because the deviceadmin is requested.
 The time can be prolonged by entering a password by 1 hour.
+
+## Getting Started
+
+### Clone the Repository
+
+To clone this repository locally, use the following command:
+
+```bash
+git clone https://github.com/grillenbergerfriedrich/HandyDiet.git
+```
+
+Then navigate into the project directory:
+
+```bash
+cd HandyDiet
+```
